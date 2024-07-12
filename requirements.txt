@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+joblib
+keras
+docker
+json
+subprocess
+time
+numpy
+os
+sklearn
+glob
+xgboost
